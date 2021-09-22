@@ -1,0 +1,19 @@
+{
+  "name": "a01-cvunc",
+  "version": "1.0.0",
+  "description": "Assignment 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a01-cvunc.git"
+  },
+  "author": "Cole Vahey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a01-cvunc/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a01-cvunc#readme"
+}
